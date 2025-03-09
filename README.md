@@ -41,7 +41,7 @@ To preview and run the project on your device:
 
 ## Usage
 
-Once you've successfully installed [Your Project Name], using the platform is straightforward. Here's a brief guide on how to make the most of it:
+Once you've successfully installed Astro Colab, using the platform is straightforward. Here's a brief guide on how to make the most of it:
 
 1. **User Registration:**
    - Start by creating a user account if you haven't already. You can do this by [describe the registration process, e.g., providing an email and password].
@@ -78,7 +78,7 @@ Remember, Astro-Colab is all about making collaboration in the open-source commu
 
 ## Contributing
 
-We welcome contributions from the open-source community! If you'd like to contribute to [Your Project Name], please follow these guidelines:
+We welcome contributions from the open-source community! If you'd like to contribute to Astro Colab, please follow these guidelines:
 
 - Fork the project.
 - Create a new branch.
